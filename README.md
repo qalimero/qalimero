@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qalimero" alt="qalimero" /></a> </p>
 
-- 🔭 I’m currently working on **deplace-maison**
+- 🔭 I’m currently working on **my-portfolio**
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **web accessibility/front-end**
+- 👯 I’m looking to collaborate on **web accessibility/front-end/Integration**
 
 - 💬 Ask me about **Web accessibility**
 
